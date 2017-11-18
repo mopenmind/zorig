@@ -73,7 +73,7 @@ googleAnalytics = ""
             description = "We update dependencies to keep things fresh."
 
         [[params.services.list]]
-            icon = "fa-heart"
+            icon = "fa-refresh"
             title = "Sauberkeitsabonement"
             description = "Profitieren Sie jetzt von einem Reinigungsabo!"
 
