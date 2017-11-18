@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zorig.ch/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Zorig Reinigungen"
 theme = "creative"
