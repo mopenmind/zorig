@@ -1,7 +1,7 @@
 baseurl = "https://zorig.ch/"
 languageCode = "en-us"
 title = "Zorig Reinigungen"
-theme = "hugo-creative-theme"
+theme = "creative"
 googleAnalytics = ""
 
 [params]
