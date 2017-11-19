@@ -41,21 +41,21 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
+		slogan     = "Sauber - Freundlich - Zuverlässig"
 		subtitle   = "Zorig Reinigungen bietet zuverlässige, gründliche und preiswerte Reinigungen von Büro und privaten Räumlichkeiten."
-		buttonText = "Find out more"
+		buttonText = "Lernen Sie uns kennen"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
+		headline    = "Wir reinigen "
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
 		buttonText  = "Get started!"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Zu Ihren Diensten"
 
         [[params.services.list]]
             icon = "fa-diamond"
