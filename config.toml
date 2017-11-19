@@ -105,3 +105,18 @@ googleAnalytics = ""
 	# 	latitude  = "34.007850"
 	# 	longitude = "-118.499305"
 	# 	maps_api_key = ""
+
+	[outputs]
+home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+suffix = ""
+delimiter = ""
+
+[outputFormats]
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
