@@ -48,7 +48,7 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "Wir reinigen "
+		headline    = "Wir reinigen alles"
 		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
 		buttonText  = "Get started!"
 
