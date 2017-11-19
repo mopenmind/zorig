@@ -62,10 +62,10 @@ googleAnalytics = ""
             title = "Blitzsauber"
             description = "Gönnen Sie sich den Luxus von Sauberkeit."
 
-#        [[params.services.list]]
-#			icon = "fa-paper-plane"
-#			title = "Ready to Ship"
-#			description = "You can use this theme as is, or you can make changes!"
+   [[params.services.list]]
+			icon = "fa-globe"
+			title = "Überall"
+			description = "Wir sind dort wo Sie uns brauchen!"
 
 		[[params.services.list]]
             icon = "fa-windows"
