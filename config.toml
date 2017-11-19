@@ -41,16 +41,16 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Sauber - Freundlich - Zuverlässig"
+		slogan     = "Ihre Zufriedenheit ist unsere Garantie"
 		subtitle   = "Zorig Reinigungen bietet zuverlässige, gründliche und preiswerte Reinigungen von Büro und privaten Räumlichkeiten."
-		buttonText = "Lernen Sie uns kennen"
+		buttonText = "Lernen Sie uns kennen!"
 
 
 	# About section
 	[params.about]
 		headline    = "Wir reinigen alles"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		description = "Sind Sie auf der Suche nach einer Haushaltsreinigung auf die Sie sich verlassen können? Sie müssen nicht weiterschauen. Wir sind Zorig Reinigungen und sind da, wann und wo Sie uns brauchen. Seit 2010 haben wir uns dazu verpflichtet, die beste Reinigung für unsere Kunden in Luzern und Umgebung zu garantieren. Wir werden auch Ihre Erwartungen übertreffen."
+		buttonText  = "Verlangen Sie ein Angebot"
 
 
 	# Service section
@@ -59,18 +59,18 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            title = "Blitzsauber"
+            description = "Gönnen Sie sich den Luxus von Sauberkeit."
 
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+#        [[params.services.list]]
+#			icon = "fa-paper-plane"
+#			title = "Ready to Ship"
+#			description = "You can use this theme as is, or you can make changes!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-windows"
+            title = "Fensterreinigung"
+            description = "Wir sorgen für Durchblick."
 
         [[params.services.list]]
             icon = "fa-refresh"
@@ -79,11 +79,11 @@ googleAnalytics = ""
 
 
     # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
+#	[params.portfolio.modal]
+#        client = "Client"
+#        date = "Date"
+#        category = "Category"
+#        buttonText = "Close"
 
     # Aside section
 #	[params.aside]
