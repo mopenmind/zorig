@@ -107,7 +107,7 @@ googleAnalytics = ""
 	# 	maps_api_key = ""
 
 	[outputs]
-home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
+home = [ "HTML", "RSS", "HEADERS" ]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
