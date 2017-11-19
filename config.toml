@@ -74,7 +74,7 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-refresh"
-            title = "Sauberkeitsabonement"
+            title = "Sauberkeitsabonnement"
             description = "Profitieren Sie jetzt von einem Reinigungsabo!"
 
 
