@@ -60,7 +60,7 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-diamond"
             title = "Blitzsauber"
-            description = "Gönnen Sie sich den Luxus von Sauberkeit."
+            description = "Endreinigung mit Abnahmegarantie!"
 
    [[params.services.list]]
 			icon = "fa-globe"
@@ -70,7 +70,7 @@ googleAnalytics = ""
 		[[params.services.list]]
             icon = "fa-windows"
             title = "Fensterreinigung"
-            description = "Wir sorgen für Durchblick."
+            description = "Wir reinigen auch Büros und Geschäftsräume."
 
         [[params.services.list]]
             icon = "fa-refresh"
