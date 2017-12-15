@@ -68,8 +68,8 @@ googleAnalytics = ""
 			description = "Wir sind dort wo Sie uns brauchen!"
 
 		[[params.services.list]]
-            icon = "fa-windows"
-            title = "Fensterreinigung"
+            icon = "fa-building-o"
+            title = "Fürs Geschäft"
             description = "Wir reinigen auch Büros und Geschäftsräume."
 
         [[params.services.list]]
