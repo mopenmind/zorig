@@ -106,7 +106,7 @@ googleAnalytics = ""
 	# 	longitude = "-118.499305"
 	# 	maps_api_key = ""
 
-	[outputs]
+[outputs]
 home = [ "HTML", "RSS", "HEADERS" ]
 
 [mediaTypes]
