@@ -107,16 +107,9 @@ googleAnalytics = ""
 	# 	maps_api_key = ""
 
 [outputs]
-home = [ "HTML", "RSS", "HEADERS" ]
+home = [ "HTML", "RSS"]
 
 [mediaTypes]
-[mediaTypes."text/netlify"]
-suffix = ""
-delimiter = ""
+
 
 [outputFormats]
-[outputFormats.HEADERS]
-mediatype = "text/netlify"
-baseName = "_headers"
-isPlainText = true
-notAlternative = true
